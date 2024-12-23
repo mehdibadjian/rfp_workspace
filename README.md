@@ -26,7 +26,7 @@ This workspace contains Python code to instantiate multiple AI agents to process
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git  *(Replace with your repo URL)*
+   git clone https://github.com/mehdibadjian/rfp_workspace.git  *(Replace with your repo URL)*
    cd your-repo
    ```
 
@@ -121,21 +121,10 @@ Contributions are welcome! Please submit a pull request with a clear description
 
 ### License
 
-[MIT License](LICENSE)  *(Create a LICENSE file with the MIT license text)*
+[MIT License](LICENSE)
 
 ### Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Mehdi Badjian - [mmbadjian@gmail.com](mailto:mmbadjian@gmail.com)
 
-
-This improved README provides:
-
-* More detailed setup instructions, including .env file usage and virtual environment best practices.
-* A suggested project structure for better organization.
-* A code example demonstrating how to use the API key from the environment or a .env file.
-* Placeholders for your repository URL and contact information.
-* Sections for contributions and license.  Remember to create the LICENSE file.
-
-
-This will make your project much more accessible and easier for others to contribute to. Remember to fill in the placeholders with your specific details.
 ```
